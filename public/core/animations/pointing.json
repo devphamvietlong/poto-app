@@ -1,0 +1,61 @@
+{
+  "name": "pointing",
+  "duration": 2000,
+  "loop": true,
+  "keyframes": [
+    {
+      "time": 0,
+      "targets": {}
+    },
+    {
+      "time": 400,
+      "targets": {
+        "right_arm": {
+          "rotate": -65,
+          "x": -5,
+          "y": 8
+        },
+        "left_arm": {
+          "rotate": -10,
+          "y": 2
+        },
+        "head": {
+          "rotate": -12,
+          "x": -6,
+          "y": 8
+        },
+        "face": {
+          "y": 4.5,
+          "x": -6.5
+        },
+        "emote": {
+          "y": 7.5,
+          "x": -12
+        }
+      }
+    },
+    {
+      "time": 1600,
+      "targets": {
+        "right_arm": {
+          "rotate": -65,
+          "x": -5,
+          "y": 8
+        },
+        "left_arm": {
+          "rotate": -10,
+          "y": 2
+        },
+        "head": {
+          "rotate": -12,
+          "x": -6,
+          "y": 8
+        }
+      }
+    },
+    {
+      "time": 2000,
+      "targets": {}
+    }
+  ]
+}

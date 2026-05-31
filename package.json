@@ -1,0 +1,28 @@
+{
+  "name": "poto_com_app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:web": "vite --mode web --host",
+    "dev:pwa": "vite --mode pwa --host",
+    "dev:mix": "vite --mode mix --host",
+    "build": "vite build",
+    "build:web": "vite build --mode web",
+    "build:pwa": "vite build --mode pwa",
+    "build:mix": "vite build --mode mix",
+    "postbuild": "node sync-config.js",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@lucide/vue": "^1.16.0",
+    "canvas-confetti": "^1.9.4",
+    "lucide-vue-next": "^1.0.0",
+    "vue": "^3.5.34"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.6",
+    "vite": "^8.0.12"
+  }
+}

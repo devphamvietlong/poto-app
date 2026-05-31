@@ -1,0 +1,153 @@
+{
+  "name": "sad_crying",
+  "emote": "crying",
+  "duration": 2000,
+  "loop": true,
+  "keyframes": [
+    {
+      "time": 0,
+      "targets": {
+        "torso": {
+          "y": 0,
+          "rotate": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "head": {
+          "y": 0,
+          "rotate": 0,
+          "x": 0
+        },
+        "bamboo": {
+          "rotate": 0,
+          "y": 0,
+          "x": 0
+        },
+        "left_arm": {
+          "rotate": 0,
+          "y": 0
+        },
+        "right_arm": {
+          "rotate": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "time": 500,
+      "targets": {
+        "torso": {
+          "y": 14,
+          "rotate": 4,
+          "scaleX": 1.06,
+          "scaleY": 0.88
+        },
+        "head": {
+          "y": 20,
+          "rotate": 10,
+          "x": 3
+        },
+        "bamboo": {
+          "rotate": 35,
+          "y": 20,
+          "x": 10
+        },
+        "left_arm": {
+          "rotate": 18,
+          "y": 12
+        },
+        "right_arm": {
+          "rotate": -22,
+          "y": 10
+        }
+      }
+    },
+    {
+      "time": 1000,
+      "targets": {
+        "torso": {
+          "y": 12,
+          "rotate": 3,
+          "scaleX": 1.06,
+          "scaleY": 0.9
+        },
+        "head": {
+          "y": 17,
+          "rotate": 8,
+          "x": 2
+        },
+        "bamboo": {
+          "rotate": 30,
+          "y": 18,
+          "x": 8
+        },
+        "left_arm": {
+          "rotate": 15,
+          "y": 10
+        },
+        "right_arm": {
+          "rotate": -20,
+          "y": 8
+        }
+      }
+    },
+    {
+      "time": 1500,
+      "targets": {
+        "torso": {
+          "y": 14,
+          "rotate": 4,
+          "scaleX": 1.06,
+          "scaleY": 0.88
+        },
+        "head": {
+          "y": 20,
+          "rotate": 10,
+          "x": 3
+        },
+        "bamboo": {
+          "rotate": 35,
+          "y": 20,
+          "x": 10
+        },
+        "left_arm": {
+          "rotate": 18,
+          "y": 12
+        },
+        "right_arm": {
+          "rotate": -22,
+          "y": 10
+        }
+      }
+    },
+    {
+      "time": 2000,
+      "targets": {
+        "torso": {
+          "y": 0,
+          "rotate": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "head": {
+          "y": 0,
+          "rotate": 0,
+          "x": 0
+        },
+        "bamboo": {
+          "rotate": 0,
+          "y": 0,
+          "x": 0
+        },
+        "left_arm": {
+          "rotate": 0,
+          "y": 0
+        },
+        "right_arm": {
+          "rotate": 0,
+          "y": 0
+        }
+      }
+    }
+  ]
+}

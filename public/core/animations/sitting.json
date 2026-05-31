@@ -1,0 +1,122 @@
+{
+  "name": "sitting",
+  "duration": 2000,
+  "loop": true,
+  "keyframes": [
+    {
+      "time": 0,
+      "targets": {
+        "mascot_root": {
+          "y": 30
+        },
+        "torso": {
+          "scaleX": 1.05,
+          "scaleY": 0.85
+        },
+        "head": {
+          "y": 13
+        },
+        "left_leg": {
+          "x": 23.5,
+          "y": 13.5,
+          "rotate": -70
+        },
+        "right_leg": {
+          "x": -23,
+          "y": 8.5,
+          "rotate": 48
+        },
+        "left_arm": {
+          "rotate": -25,
+          "y": 8
+        },
+        "right_arm": {
+          "y": 7.0328355287716935,
+          "rotate": -11
+        },
+        "bamboo": {
+          "y": 8,
+          "rotate": 25,
+          "x": 5
+        }
+      }
+    },
+    {
+      "time": 1000,
+      "targets": {
+        "mascot_root": {
+          "y": 30
+        },
+        "torso": {
+          "scaleX": 1.03,
+          "scaleY": 0.88
+        },
+        "head": {
+          "y": 12,
+          "rotate": 1
+        },
+        "left_leg": {
+          "x": 23.5,
+          "y": 13.5,
+          "rotate": -69
+        },
+        "right_leg": {
+          "x": -23,
+          "y": 8.5,
+          "rotate": 50
+        },
+        "left_arm": {
+          "rotate": -20,
+          "y": 7
+        },
+        "right_arm": {
+          "y": 7.0328355287716935,
+          "rotate": -9
+        },
+        "bamboo": {
+          "y": 7,
+          "rotate": 20,
+          "x": 4
+        }
+      }
+    },
+    {
+      "time": 2000,
+      "targets": {
+        "mascot_root": {
+          "y": 30
+        },
+        "torso": {
+          "scaleX": 1.05,
+          "scaleY": 0.85
+        },
+        "head": {
+          "y": 13
+        },
+        "left_leg": {
+          "x": 23.5,
+          "y": 13.5,
+          "rotate": -70
+        },
+        "right_leg": {
+          "x": -23,
+          "y": 8.5,
+          "rotate": 48
+        },
+        "left_arm": {
+          "rotate": -25,
+          "y": 8
+        },
+        "right_arm": {
+          "y": 7.0328355287716935,
+          "rotate": -11
+        },
+        "bamboo": {
+          "y": 8,
+          "rotate": 25,
+          "x": 5
+        }
+      }
+    }
+  ]
+}

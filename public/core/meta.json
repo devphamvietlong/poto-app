@@ -1,0 +1,311 @@
+{
+  "viewBox": "0 0 210 297",
+  "parts": {
+    "mascot_root": {
+      "selector": "#layer2",
+      "pivot": [
+        0,
+        0
+      ],
+      "global_position": [
+        0,
+        0
+      ]
+    },
+    "torso": {
+      "file": "parts/export_2_torso.svg",
+      "pivot": [
+        63.7,
+        85.6
+      ],
+      "global_position": [
+        112.1,
+        240.8
+      ],
+      "idle": {
+        "scaleY": 0.012,
+        "y": 0.4,
+        "speed": 1
+      }
+    },
+    "torso_detail": {
+      "file": "parts/export_2_torso_detail.svg",
+      "pivot": [
+        53.9,
+        25.4
+      ],
+      "global_position": [
+        107.9,
+        213.3
+      ]
+    },
+    "left_leg": {
+      "file": "parts/export_2_right_leg.svg",
+      "pivot": [
+        16.3,
+        -0.9
+      ],
+      "global_position": [
+        131.9,
+        225.7
+      ],
+      "idle": {
+        "rotate": -0.2,
+        "speed": 1
+      }
+    },
+    "right_leg": {
+      "file": "parts/export_2_left_leg.svg",
+      "flip": "horizontal",
+      "pivot": [
+        193.6,
+        -2.8
+      ],
+      "global_position": [
+        82.9,
+        223.7
+      ],
+      "idle": {
+        "rotate": 0.2,
+        "speed": 1
+      }
+    },
+    "left_arm": {
+      "file": "parts/export_2_left_arm.svg",
+      "pivot": [
+        -0.7,
+        2.8
+      ],
+      "global_position": [
+        160.5,
+        177.7
+      ],
+      "idle": {
+        "rotate": -1.5,
+        "speed": 1
+      }
+    },
+    "right_arm": {
+      "file": "parts/export_2_right_arm.svg",
+      "base_rotate": 169.89795,
+      "pivot": [
+        182.7,
+        294.2
+      ],
+      "global_position": [
+        58.5,
+        177.5
+      ],
+      "idle": {
+        "rotate": 1.5,
+        "speed": 1
+      }
+    },
+    "bamboo": {
+      "file": "parts/export_2_bamboo.svg",
+      "pivot": [
+        70.9,
+        179.6
+      ],
+      "global_position": [
+        30.9,
+        190.1
+      ],
+      "idle": {
+        "rotate": 2.5,
+        "speed": 1
+      }
+    },
+    "head": {
+      "file": "parts/export_2_head.svg",
+      "pivot": [
+        81.6,
+        113
+      ],
+      "global_position": [
+        112.1,
+        175.9
+      ],
+      "idle": {
+        "rotate": 1,
+        "y": 0.3,
+        "speed": 1
+      }
+    },
+    "head_outline": {
+      "file": "parts/export_2_head.svg",
+      "pivot": [
+        49.67,
+        137.9
+      ],
+      "global_position": [
+        104.995974,
+        149.995911
+      ]
+    },
+    "face": {
+      "file": "parts/export_2_face.svg",
+      "pivot": [
+        57.5,
+        36.8
+      ],
+      "global_position": [
+        110.3,
+        137
+      ]
+    },
+    "hat": {
+      "file": "parts/export_2_hat.svg",
+      "pivot": [
+        71.4,
+        22.1
+      ],
+      "global_position": [
+        110.2,
+        73.3
+      ]
+    },
+    "emote": {
+      "file": "parts/export_2_emote.svg",
+      "pivot": [
+        47.8,
+        16.7
+      ],
+      "global_position": [
+        111.1,
+        137.1
+      ]
+    }
+  },
+  "expressions": {
+    "normal": {
+      "mouth_d": "m 108.32527,142.80877 c 2.54544,0.06 9.17319,-0.98455 9.98965,0.98457 0.81647,1.96911 0.5283,4.03428 -1.10462,5.45108 -1.63292,1.4168 -7.39618,2.08918 -8.59686,2.16122 -1.20068,0.072 -5.8104,-0.50642 -7.4202,-1.17666 -2.593761,-1.0799 -3.159781,-4.30386 -2.905645,-6.0034 0.384218,-2.56946 7.492235,-1.47684 10.037675,-1.41681 z",
+      "cheek_opacity": 0.5,
+      "cheek_color": "#ff9ebb"
+    },
+    "happy": {
+      "mouth_d": "M 98,142 C 98,154 116,154 116,142 Z",
+      "cheek_opacity": 0.8,
+      "cheek_color": "#ff9ebb",
+      "eye_scale_y": 0.65,
+      "right_eyebrow_d": "M 77,123 C 82,119 86,119 91,123",
+      "left_eyebrow_d": "M 125,123 C 130,119 134,119 139,123",
+      "particles_burst": {
+        "type": "hearts",
+        "count": 6
+      }
+    },
+    "wink": {
+      "mouth_d": "M 98,142 C 102,150 114,147 116,142 Z",
+      "cheek_opacity": 0.9,
+      "cheek_color": "#ff9ebb",
+      "right_eye_scale_y": 0.15,
+      "right_eyebrow_d": "M 77,128 C 82,127 86,127 91,128",
+      "left_eyebrow_d": "M 125,124 C 130,121 134,121 139,124"
+    },
+    "dizzy": {
+      "mouth_d": "M 103,147 A 3,3 0 1,1 109,147 A 3,3 0 1,1 103,147 Z",
+      "cheek_opacity": 0.3,
+      "cheek_color": "#ff9ebb",
+      "right_eyebrow_d": "M 77,125 C 82,128 86,122 91,125",
+      "left_eyebrow_d": "M 125,125 C 130,122 134,128 139,125",
+      "dizzy_spirals": true
+    },
+    "sleepy": {
+      "mouth_d": "M 101,144 H 109",
+      "cheek_opacity": 0,
+      "eye_scale_y": 0.15,
+      "right_eyebrow_d": "M 77,127 C 82,126 86,126 91,127",
+      "left_eyebrow_d": "M 125,127 C 130,126 134,126 139,127",
+      "particles": [
+        {
+          "type": "sleeping",
+          "interval": 1000
+        }
+      ]
+    },
+    "sad": {
+      "mouth_d": "M 98,148 C 98,140 116,140 116,148 Z",
+      "cheek_opacity": 0.4,
+      "cheek_color": "#ff9ebb",
+      "eye_scale_y": 0.15,
+      "right_eyebrow_d": "M 77,130 C 82,127 86,125 91,123",
+      "left_eyebrow_d": "M 125,123 C 130,125 134,127 139,130",
+      "sad_tears": true
+    },
+    "crying": {
+      "mouth_d": "M 98,148 C 98,140 116,140 116,148 C 112,153 102,153 98,148 Z",
+      "cheek_opacity": 0.7,
+      "cheek_color": "#ff9ebb",
+      "left_eye_scale_y": 0.1,
+      "left_eye_rotate": 15,
+      "right_eye_scale_y": 0.1,
+      "right_eye_rotate": -15,
+      "right_eyebrow_d": "M 77,130 C 82,127 86,125 91,123",
+      "left_eyebrow_d": "M 125,123 C 130,125 134,127 139,130",
+      "particles": [
+        {
+          "type": "crying",
+          "interval": 80
+        }
+      ]
+    },
+    "super_happy": {
+      "mouth_d": "M 95,142 C 95,158 119,158 119,142 Z",
+      "cheek_opacity": 0.9,
+      "cheek_color": "#ff9ebb",
+      "eye_scale_y": 0.65,
+      "right_eyebrow_d": "M 77,122 C 82,118 86,118 91,122",
+      "left_eyebrow_d": "M 125,122 C 130,118 134,118 139,122",
+      "particles_burst": {
+        "type": "hearts",
+        "count": 6
+      }
+    },
+    "angry": {
+      "mouth_d": "M 98,150 C 102,143 112,143 116,150 C 112,145 102,145 98,150 Z",
+      "cheek_opacity": 0.5,
+      "cheek_color": "#ef4444",
+      "left_eye_rotate": 15,
+      "right_eye_rotate": -15,
+      "right_eyebrow_d": "M 77,123 C 82,126 86,129 91,133",
+      "left_eyebrow_d": "M 125,133 C 130,129 134,126 139,123"
+    },
+    "scared": {
+      "mouth_d": "M 98,147 C 102,145 104,149 107,147 C 110,145 112,149 116,147 L 116,148.5 C 112,150.5 110,146.5 107,148.5 C 104,150.5 102,146.5 98,148.5 Z",
+      "cheek_opacity": 0.5,
+      "cheek_color": "#3b82f6",
+      "eye_scale_x": 0.7,
+      "eye_scale_y": 0.7,
+      "left_eye_rotate": -10,
+      "right_eye_rotate": 10,
+      "right_eyebrow_d": "M 77,130 C 82,127 86,125 91,123",
+      "left_eyebrow_d": "M 125,123 C 130,125 134,127 139,130",
+      "shake": true,
+      "shake_amount": 1.2
+    },
+    "shock": {
+      "mouth_d": "M 102,147 A 5,7 0 1,1 112,147 A 5,7 0 1,1 102,147 Z",
+      "cheek_opacity": 0,
+      "eye_scale_x": 1.4,
+      "eye_scale_y": 1.4,
+      "right_eyebrow_d": "M 77,118 C 82,114 86,114 91,118",
+      "left_eyebrow_d": "M 125,118 C 130,114 134,114 139,118",
+      "shake": true,
+      "shake_amount": 0.8
+    },
+    "hit": {
+      "mouth_d": "M 98,149 C 103,149 111,146 116,146 L 116,147.5 C 111,147.5 103,150.5 98,150.5 Z",
+      "cheek_opacity": 0.8,
+      "cheek_color": "#f97316",
+      "left_eye_scale_y": 0.1,
+      "left_eye_rotate": 45,
+      "right_eye_scale_y": 0.1,
+      "right_eye_rotate": -45,
+      "right_eyebrow_d": "M 77,130 C 82,127 86,125 91,123",
+      "left_eyebrow_d": "M 125,123 C 130,125 134,127 139,130",
+      "shake": true,
+      "shake_amount": 2.0
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "general": {
+    "coins": "Xu",
+    "streak": "Chuỗi",
+    "weeks": "Tuần",
+    "pots": "Chậu cây",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "close": "Đóng",
+    "loading": "Đang tải...",
+    "comingSoon": "Sắp ra mắt",
+    "back": "Quay lại",
+    "blog": "Cẩm nang",
+    "events": "Sự kiện"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "pots": "Chậu cây",
+    "shop": "Cửa hàng",
+    "discover": "Khám phá",
+    "me": "Tôi"
+  },
+  "splash": {
+    "subtitle": "Chăm sóc Cây & Theo dõi Tăng trưởng Thông minh"
+  },
+  "dashboard": {
+    "welcome": "Chào mừng trở lại,",
+    "defaultUser": "Ngón tay Xanh",
+    "directory": "Danh mục Ứng dụng",
+    "impactTitle": "Tác động Môi trường của tôi",
+    "co2Saved": "CO2 Tiết kiệm",
+    "treesPlanted": "Cây đã trồng",
+    "helpPrompt": "Poto giúp ích gì? Nhấp để tìm hiểu",
+    "installTitle": "Cài đặt ứng dụng Poto",
+    "installDesc": "Thêm vào màn hình chính để truy cập ngoại tuyến nhanh chóng và nhận thông báo tưới nước thông minh.",
+    "installBtn": "Cài đặt",
+    "maybeLater": "Để sau",
+    "pwaGate": {
+      "desc": "Poto được thiết kế như một Ứng dụng Web Lũy tiến. Vui lòng cài đặt ứng dụng trên thiết bị của bạn để bắt đầu theo dõi và chăm sóc cây.",
+      "btn": "Cài đặt Ứng dụng Poto",
+      "howTo": "Cách cài đặt:",
+      "safariiOS": "Nhấn vào nút Chia sẻ {icon} trong Safari.",
+      "otherBrowser": "Nhấn vào nút menu trình duyệt {icon} (thường ở góc trên bên phải).",
+      "addHome": "Chọn Thêm vào Màn hình chính từ menu.",
+      "launch": "Khởi chạy Poto từ màn hình chính của bạn!"
+    }
+  },
+  "mascot": {
+    "label": "Linh vật Poto",
+    "bubble": {
+      "sleep": "Khò khò... Khò khò... 💤",
+      "dizzy": "Ái da! Nhức đầu quá... Vui lòng đừng lắc tôi mạnh thế! 😵‍💫",
+      "tap1": "Này! Làm gì thế hả? 😮",
+      "tap2": "Đau! Xin đừng đấm tôi mà! 🥺",
+      "tap3": "Dừng lại đi! Tôi đang chóng mặt quá... 😵",
+      "tap4": "Gõ một lần nữa là tôi ngất đấy! 🫨",
+      "lonely": "Xin chào! Tôi cô đơn quá... Bạn chưa có chậu cây nào cả! Hãy nhấn vào mục Chậu cây ở menu bên dưới và thêm một cây để chúng ta cùng lớn lên nhé! 🌱",
+      "thirsty": "Chú ý! Một số chậu cây của bạn đang rất khô. Hãy nhấp vào trang Chậu cây để tưới nước cho chúng nhé!",
+      "sensorPrompt": "Chào bạn! Nhấn vào tôi để cấp quyền cảm biến rung lắc để chúng ta cùng chơi nhé, hoặc kiểm tra các chậu cây bên dưới!",
+      "streakMsg": "Làm vườn thật tuyệt vời! Bạn đã duy trì chuỗi ảnh chụp nhật ký trong {streak} tuần. Cùng tiếp tục phát triển nhé!",
+      "defaultMsg": "Xin chào! Nhớ chụp ảnh chậu cây hàng tuần để đạt cột mốc chuỗi và nhận Xu Tre nhé!",
+      "wokenUp": "Oáp... Ồ chào bạn! Bạn đã đánh thức tôi dậy! 🥱"
+    }
+  },
+  "placeholders": {
+    "releaseBtn": "Thông báo cho tôi khi ra mắt",
+    "upcoming": "Tính năng Sắp ra mắt",
+    "aiCare": {
+      "title": "Bác sĩ Cây trồng AI",
+      "name": "Trợ lý Chăm sóc AI Poto",
+      "desc": "Chẩn đoán bệnh trên lá cây, xác định tình trạng thiếu hụt dinh dưỡng và phân tích tốc độ tăng trưởng ngay lập tức. Chỉ cần chụp ảnh bằng điện thoại hoặc camera của chậu thông minh, mô hình máy học của chúng tôi sẽ đưa ra các điều chỉnh đất và lượng nước cụ thể."
+    },
+    "smartSoil": {
+      "title": "Tích hợp IoT",
+      "name": "Đầu dò Độ ẩm Đất Thông minh",
+      "desc": "Đồng bộ hóa Đầu dò Thông minh Poto của bạn để tự động đo độ ẩm của đất, nhiệt độ môi trường, độ ẩm không khí và mức độ ánh sáng. Loại bỏ việc đoán tần suất bay hơi bằng cách truyền trực tiếp các chỉ số thời gian thực lên bảng điều khiển."
+    },
+    "alerts": {
+      "title": "Thông báo Thông minh",
+      "name": "Trung tâm Cảnh báo Môi trường",
+      "desc": "Nhận cảnh báo đẩy hoặc tin nhắn SMS khi thời tiết thay đổi đột ngột. Nếu dự báo có đợt nắng nóng cục bộ, Poto sẽ tính toán mức tăng nhiệt độ và cảnh báo bạn di chuyển các cây nhạy cảm hoặc lên lịch tưới nước sớm hơn."
+    },
+    "badges": {
+      "title": "Thành tích Trò chơi",
+      "name": "Cột mốc Sinh thái & Huy hiệu",
+      "desc": "Mở khóa các huy hiệu hồ sơ độc đáo khi duy trì chuỗi chăm sóc, tiết kiệm nước và đăng nhập hàng ngày. Quy đổi thành tích hoàn thành để tài trợ cho các sáng kiến trồng tre rừng thực tế và mở khóa các chủ đề cửa hàng xu tùy chỉnh."
+    }
+  },
+  "sustainability": {
+    "title": "Tác động Bền vững",
+    "desc": "Bằng cách sử dụng các chậu cây thông minh Poto, bạn đang đóng góp trực tiếp vào việc tái trồng rừng và giảm thiểu chất thải tài nguyên.",
+    "derivedTitle": "Công thức Tính Lượng CO2 Giảm thiểu:",
+    "derivedDesc": "Mỗi chậu cây bạn trồng giúp hấp thụ khí carbon dioxide trong khí quyển. Chậu cây làm từ nguyên liệu sinh học thân thiện với môi trường của chúng tôi giúp giảm thiểu sản xuất nhựa dầu mỏ nguyên sinh, khóa lại khoảng 4.2 kg carbon cho mỗi chậu mỗi tháng.",
+    "partnershipTitle": "Hợp tác Trồng cây:",
+    "partnershipDesc": "Với mỗi chậu Poto được đăng ký hoặc mua trong ứng dụng, chúng tôi sẽ trồng một cây tre non thực tế thông qua các mạng lưới phủ xanh toàn cầu. Tre là một trong những loài cây hấp thụ carbon nhanh nhất trên Trái Đất, nhanh hơn tới 5 lần so với các khu rừng gỗ cứng thông thường.",
+    "balanceTitle": "Số dư Hiện tại của bạn:",
+    "trackedPlants": "Tổng số Cây đang Theo dõi:",
+    "co2Offset": "Lượng CO2 Đã giảm thiểu:",
+    "sponsoredSaplings": "Cây Tre đã Tài trợ:"
+  },
+  "pots": {
+    "title": "Chậu cây của tôi",
+    "addNew": "Thêm mới",
+    "searchPlaceholder": "Tìm cây theo tên...",
+    "allSpecies": "Tất cả các loài",
+    "noPotsFound": "Không tìm thấy chậu cây nào",
+    "clearFilter": "Hãy thử xóa các bộ lọc hoặc từ khóa tìm kiếm.",
+    "setupFirst": "Hãy bắt đầu bằng cách thiết lập chậu cây đầu tiên của bạn!",
+    "addPotBtn": "Thêm chậu cây",
+    "potSize": {
+      "small": "Nhỏ (S)",
+      "medium": "Vừa (M)",
+      "large": "Lớn (L)"
+    },
+    "status": {
+      "thirsty": "Khát! Tưới nước ngay",
+      "warning": "Tưới nước sau {hours} giờ",
+      "healthy": "Tưới nước sau {days} ngày"
+    },
+    "titleAdd": "Thêm Chậu cây Mới",
+    "fieldNickname": "Biệt danh / Nhãn chậu",
+    "nicknamePlaceholder": "Ví dụ: Cây Trầu bà Phòng khách",
+    "fieldSpecies": "Chọn loài cây",
+    "fieldSize": "Kích thước đường kính chậu",
+    "fieldPhoto": "Chụp ảnh Ban đầu",
+    "tapPhoto": "Chạm để chụp ảnh mầm cây của bạn!",
+    "retakePhoto": "Chụp lại ảnh",
+    "btnSubmit": "Tạo Nhật ký Chậu Thông minh",
+    "fieldInterval": "Điều chỉnh khoảng cách tưới (ngày)",
+    "photoReward": "Nhận thêm 10 xu khi thêm cây có kèm ảnh chụp"
+  },
+  "shop": {
+    "title": "Cửa hàng Xu Tre",
+    "searchPlaceholder": "Tìm kiếm sản phẩm...",
+    "coinsLabel": "Xu",
+    "buyBtn": "Mua với giá {price} Xu",
+    "owned": "Đã sở hữu / Hoạt động",
+    "capacity": "Dung tích nước",
+    "moisture": "Cảnh báo độ ẩm",
+    "diagnostics": "Chẩn đoán AI",
+    "alertPurchaseSuccess": "🎉 Chúc mừng! Bạn đã mua thành công {name}! Sản phẩm đã được gửi đến khu vườn của bạn và +1 Mầm cây đã được thêm vào màn hình chính.",
+    "alertPurchaseFail": "❌ Bạn không đủ Xu Tre để mua sản phẩm này.",
+    "categories": {
+      "all": "Tất cả danh mục",
+      "pot": "Chậu tre",
+      "pearl_pot": "Chậu khảm ngọc trai",
+      "plant": "Cây trong nhà",
+      "flower": "Hoa",
+      "digital": "Tài sản số",
+      "coins": "Mua bằng xu"
+    },
+    "sizesCount": "{count} Kích thước",
+    "from": "từ",
+    "freeDigital": "Miễn phí (Tài sản số)",
+    "selectSize": "Chọn Kích thước",
+    "dimensions": "Thông số kỹ thuật",
+    "categoryLabel": "Danh mục",
+    "coinCostLabel": "Số Xu yêu cầu",
+    "inStock": "Còn hàng",
+    "buyWithCoins": "Mua bằng {coins} Xu Tre",
+    "orderNow": "Đặt mua ngay ({price})",
+    "insufficientCoins": "Bạn không đủ Xu Tre! Bạn cần {needed} xu, nhưng hiện tại chỉ có {current} xu. Hãy tưới cây và chụp ảnh nhật ký để kiếm thêm xu nhé!",
+    "successDigital": "🎉 Mua hàng thành công! Đã khấu trừ {coins} Xu. Bạn đã mở khóa: {name}!",
+    "successPlant": "🎉 Mua hàng thành công! Đã khấu trừ {coins} Xu. Một chậu '{name}' mới đã được thêm vào bộ sưu tập của bạn!",
+    "successPot": "🎉 Mua hàng thành công! Đã khấu trừ {coins} Xu. Một chậu Monstera mới đã được thêm vào bộ sưu tập!",
+    "successOther": "🎉 Mua hàng thành công! Đã khấu trừ {coins} Xu.",
+    "cashSuccessPlant": "🛒 Đơn hàng đã xử lý! Giả lập thanh toán tiền mặt thành công. Chậu '{name}' mới đã được thêm vào bộ sưu tập!",
+    "cashSuccessPot": "🛒 Đơn hàng đã xử lý! Giả lập thanh toán tiền mặt thành công. Chậu Monstera mới đã được thêm vào bộ sưu tập!",
+    "cashSuccessOther": "🛒 Đơn hàng đã xử lý! Giả lập thanh toán tiền mặt thành công. Đơn hàng thực tế của bạn đã được ghi nhận.",
+    "checkoutFailed": "Thanh toán thất bại. Vui lòng thử lại.",
+    "purchaseFailed": "Mua hàng thất bại. Vui lòng thử lại.",
+    "noProductsFound": "Không có sản phẩm nào khớp với tìm kiếm",
+    "clearFilter": "Hãy thử bộ lọc khác hoặc nhập từ khóa tìm kiếm mới.",
+    "standardSize": "Tiêu chuẩn",
+    "notAvailable": "Không có"
+  },
+  "discover": {
+    "title": "Khám phá & Cộng đồng",
+    "guidesHeader": "Cẩm nang Chăm sóc",
+    "eventsHeader": "Sự kiện Cộng đồng",
+    "seeAll": "Xem tất cả",
+    "joined": "Đã tham gia",
+    "rsvpCoins": "+20 Xu",
+    "registerBtn": "Đăng ký (+20 Xu)",
+    "registered": "Bạn đã Đăng ký",
+    "registeredSuccess": "🎉 Đăng ký thành công! Bạn nhận được +{reward} Xu Tre vì đã ủng hộ sự bền vững của cộng đồng!"
+  },
+  "blogs": {
+    "title": "Cẩm nang Chăm sóc",
+    "searchPlaceholder": "Tìm kiếm bài viết...",
+    "noGuidesFound": "Không tìm thấy bài viết nào",
+    "clearSearch": "Hãy thử kết hợp các cụm từ hoặc từ khóa tìm kiếm khác.",
+    "byAuthor": "Tác giả: {author}"
+  },
+  "events": {
+    "title": "Sự kiện Cộng đồng",
+    "searchPlaceholder": "Tìm kiếm sự kiện...",
+    "noEventsFound": "Không tìm thấy sự kiện nào",
+    "clearSearch": "Hãy thử kết hợp các cụm từ hoặc từ khóa tìm kiếm khác.",
+    "byHost": "Tổ chức bởi: {host}",
+    "dateLabel": "Ngày:",
+    "locationLabel": "Địa điểm:",
+    "hostLabel": "Người tổ chức:"
+  },
+  "me": {
+    "title": "Hồ sơ của tôi",
+    "editBtn": "Sửa Hồ sơ",
+    "fieldName": "Họ và tên",
+    "fieldEmail": "Email",
+    "statsTitle": "Tổng quan Chỉ số",
+    "footprintTitle": "Dấu chân Môi trường",
+    "displaySettings": "Cài đặt Hiển thị",
+    "lightMode": "Sáng",
+    "darkMode": "Tối",
+    "langSettings": "Cài đặt Ngôn ngữ",
+    "pwaTitle": "Cài đặt Ứng dụng Web",
+    "pwaDesc": "Trải nghiệm ứng dụng gốc mượt mà với hỗ trợ ngoại tuyến và tốc độ tải nhanh hơn.",
+    "pwaBtn": "Cài đặt Ứng dụng Poto",
+    "changePassword": "Đổi mật khẩu",
+    "signOut": "Đăng xuất",
+    "deleteAccount": "Xóa Tài khoản",
+    "placeholderAlert": "⚙️ Hành động Tài khoản: \"{action}\" đã được kích hoạt. Hành động này hiện tại là mô phỏng và sẽ được hoàn thiện trong phiên bản tiếp theo."
+  },
+  "detail": {
+    "speciesLabel": "Loài cây:",
+    "lastWatered": "Tưới lần cuối:",
+    "never": "Chưa từng",
+    "hydrationStatus": "Tình trạng Độ ẩm",
+    "waterInterval": "Tần suất tưới:",
+    "days": "{count} ngày",
+    "soilMoisture": "Độ ẩm Đất Trực tiếp:",
+    "ambientTemp": "Nhiệt độ môi trường:",
+    "humidity": "Độ ẩm không khí:",
+    "ambientLight": "Ánh sáng môi trường:",
+    "waterSprout": "Tưới cây",
+    "thirstyAlert": "Khát! Tưới nước ngay",
+    "photoLog": "Nhật ký Ảnh Hàng tuần",
+    "firstLog": "Đã lưu ảnh chụp ban đầu!",
+    "logStreak": "Nhận được +10 Xu, Chuỗi đã cập nhật!",
+    "uploadPhoto": "Tải lên ảnh chăm sóc",
+    "deletePot": "Xóa Chậu cây",
+    "confirmDelete": "Bạn có chắc chắn muốn xóa chậu cây này không? Toàn bộ lịch sử sẽ bị mất."
+  }
+}

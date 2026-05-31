@@ -1,0 +1,72 @@
+{
+  "name": "greeting",
+  "duration": 1200,
+  "loop": true,
+  "keyframes": [
+    {
+      "time": 0,
+      "targets": {}
+    },
+    {
+      "time": 250,
+      "targets": {
+        "head": {
+          "rotate": 5,
+          "x": 1
+        },
+        "right_arm": {
+          "rotate": -31
+        },
+        "left_arm": {
+          "rotate": 2
+        },
+        "bamboo": {
+          "rotate": -9
+        }
+      }
+    },
+    {
+      "time": 500,
+      "targets": {
+        "right_arm": {
+          "rotate": 6
+        },
+        "left_arm": {
+          "rotate": -2
+        },
+        "bamboo": {
+          "rotate": 15
+        }
+      }
+    },
+    {
+      "time": 750,
+      "targets": {
+        "right_arm": {
+          "rotate": -45
+        },
+        "left_arm": {
+          "rotate": 2
+        },
+        "bamboo": {
+          "rotate": -7
+        }
+      }
+    },
+    {
+      "time": 1000,
+      "targets": {
+        "right_arm": {
+          "rotate": 6
+        },
+        "bamboo": {
+          "rotate": 8
+        }
+      }
+    },
+    {
+      "time": 1200,
+      "targets": {}
+    }
+  ]
+}

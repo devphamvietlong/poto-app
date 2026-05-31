@@ -1,0 +1,244 @@
+{
+  "general": {
+    "coins": "Coins",
+    "streak": "Streak",
+    "weeks": "Wk",
+    "pots": "Pots",
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "loading": "Loading...",
+    "comingSoon": "Coming Soon",
+    "back": "Back",
+    "blog": "Blog",
+    "events": "Events"
+  },
+  "nav": {
+    "home": "Home",
+    "pots": "Pots",
+    "shop": "Shop",
+    "discover": "Discover",
+    "me": "Me"
+  },
+  "splash": {
+    "subtitle": "Smart Plant Care & Growth Tracker"
+  },
+  "dashboard": {
+    "welcome": "Welcome back,",
+    "defaultUser": "Green Thumb",
+    "directory": "App Directory",
+    "impactTitle": "My Environmental Impact",
+    "co2Saved": "CO2 Saved",
+    "treesPlanted": "Trees Planted",
+    "helpPrompt": "How does Poto help? Click to find out",
+    "installTitle": "Install Poto App",
+    "installDesc": "Add to your home screen for quick offline access and smart watering notifications.",
+    "installBtn": "Install",
+    "maybeLater": "Maybe Later",
+    "pwaGate": {
+      "desc": "Poto is designed as a Progressive Web App. Please install it on your device to start tracking and caring for your plants.",
+      "btn": "Install Poto App",
+      "howTo": "How to Install:",
+      "safariiOS": "Tap the Share button {icon} in Safari.",
+      "otherBrowser": "Tap the browser menu button {icon} (usually top right).",
+      "addHome": "Select Add to Home Screen from the menu.",
+      "launch": "Launch Poto from your home screen!"
+    }
+  },
+  "mascot": {
+    "label": "Poto Mascot",
+    "bubble": {
+      "sleep": "Zzz... Zzz... 💤",
+      "dizzy": "Ouch! Brain-freeze... Please don't shake me so hard! 😵‍💫",
+      "tap1": "Hey! What was that for? 😮",
+      "tap2": "Ouch! Please don't punch me! 🥺",
+      "tap3": "Stop it! I'm getting dizzy... 😵",
+      "tap4": "One more tap and I'm gonna pass out! 🫨",
+      "lonely": "Hi there! I'm lonely... You don't have any plant pots yet! Tap on Pots in the bottom menu and add one so we can grow together! 🌱",
+      "thirsty": "Attention! Some of your plant pots look extremely dry. Click on Pots page to water them!",
+      "sensorPrompt": "Hi! Tap on me to authorize my shake sensor so we can play together, or check your plant pots below!",
+      "streakMsg": "Awesome gardening! You've maintained a {streak}-week photo log streak. Let's keep it growing!",
+      "defaultMsg": "Hello! Remember to take a weekly photo of your plant pots to earn your streak milestone and Bamboo Coins!",
+      "wokenUp": "Yawwwn... Oh, hello! You woke me up! 🥱"
+    }
+  },
+  "placeholders": {
+    "releaseBtn": "Notify Me When Released",
+    "upcoming": "Upcoming Module",
+    "aiCare": {
+      "title": "AI Plant Doctor",
+      "name": "Poto AI Care Assistant",
+      "desc": "Diagnose leaf diseases, identify nutrient deficiencies, and analyze growth rates instantly. Simply capture a photo using your phone or smart pot camera, and our machine learning models will provide custom soil adjustments and specific hydration actions."
+    },
+    "smartSoil": {
+      "title": "IoT Integrations",
+      "name": "Smart Soil Moisture Probe",
+      "desc": "Sync your physical Poto Smart Probe to automatically measure soil moisture content, ambient temperature, humidity, and sunlight levels. Eliminates manual evapotranspiration guesses by feeding live real-time metrics straight to your dashboard."
+    },
+    "alerts": {
+      "title": "Smart Notifications",
+      "name": "Environmental Alert Hub",
+      "desc": "Get push alerts or SMS warnings when sudden weather shifts occur. If a local heatwave is forecasted, Poto will calculate the temperature increase and warn you to relocate vulnerable plants or schedule early watering cycles."
+    },
+    "badges": {
+      "title": "Gamification Achievements",
+      "name": "Eco Milestones & Badges",
+      "desc": "Unlock unique collectible profile badges for sustaining streaks, saving water, and checking in daily. Trade in rare completed achievements to sponsor structural tree planting initiatives and unlock custom coin shop themes."
+    }
+  },
+  "sustainability": {
+    "title": "Sustainability Impact",
+    "desc": "By using smart Poto pots, you are directly contributing to reforestation and reducing resource waste.",
+    "derivedTitle": "How Carbon Reduction is Derived:",
+    "derivedDesc": "Every active plant pot you cultivate helps absorb atmospheric carbon dioxide. Our eco-friendly bio-based pots prevent the manufacture of virgin petrochemical plastics, locking away approximately 4.2 kg of carbon per pot per month.",
+    "partnershipTitle": "Tree Planting Partnership:",
+    "partnershipDesc": "For every Poto pot registered or purchased in our application, we plant a real structural bamboo sapling in partnership with global reforestation networks. Bamboo is one of the fastest-growing carbon sinks on Earth, absorbing carbon up to 5 times faster than standard hardwood forests.",
+    "balanceTitle": "Your Current Balance:",
+    "trackedPlants": "Total Plants Tracked:",
+    "co2Offset": "CO2 Offset Cleared:",
+    "sponsoredSaplings": "Bamboo Saplings Sponsored:"
+  },
+  "pots": {
+    "title": "My Plant Pots",
+    "addNew": "Add New",
+    "searchPlaceholder": "Search plants by name...",
+    "allSpecies": "All Species",
+    "noPotsFound": "No plant pots found",
+    "clearFilter": "Try clearing your filters or search query.",
+    "setupFirst": "Get started by setting up your first plant pot!",
+    "addPotBtn": "Add Plant Pot",
+    "potSize": {
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large"
+    },
+    "status": {
+      "thirsty": "Thirsty! Water now",
+      "warning": "Water in {hours}h",
+      "healthy": "Water in {days} days"
+    },
+    "titleAdd": "Add New Plant Pot",
+    "fieldNickname": "Nickname / Pot Label",
+    "nicknamePlaceholder": "e.g., Living Room Monstera",
+    "fieldSpecies": "Select Plant Species",
+    "fieldSize": "Pot Diameter size",
+    "fieldPhoto": "Log Initial Photo",
+    "tapPhoto": "Tap to take a picture of your sprout!",
+    "retakePhoto": "Retake Photo",
+    "btnSubmit": "Create Smart Pot Log",
+    "fieldInterval": "Watering Interval override (days)",
+    "photoReward": "Earn 10 coins for adding a plant with a picture"
+  },
+  "shop": {
+    "title": "Bamboo Coin Shop",
+    "searchPlaceholder": "Search products...",
+    "coinsLabel": "Coins",
+    "buyBtn": "Purchase for {price} Coins",
+    "owned": "Owned / Active",
+    "capacity": "Water Capacity",
+    "moisture": "Moisture Alerts",
+    "diagnostics": "AI Diagnostics",
+    "alertPurchaseSuccess": "🎉 Congratulations! You purchased the {name}! It has been dispatched to your garden and +1 Sprout is added to your dashboard.",
+    "alertPurchaseFail": "❌ Insufficient Bamboo Coins to buy this item.",
+    "categories": {
+      "all": "All Categories",
+      "pot": "Bamboo Pots",
+      "pearl_pot": "Pearl Mosaic Pots",
+      "plant": "Houseplants",
+      "flower": "Flowers",
+      "digital": "Digital Assets",
+      "coins": "Buy with Coins"
+    },
+    "sizesCount": "{count} Sizes",
+    "from": "from",
+    "freeDigital": "Free (Digital Asset)",
+    "selectSize": "Select Size",
+    "dimensions": "Dimensions",
+    "categoryLabel": "Category",
+    "coinCostLabel": "Coin Cost",
+    "inStock": "In Stock",
+    "buyWithCoins": "Buy with {coins} Bamboo Coins",
+    "orderNow": "Order Now ({price})",
+    "insufficientCoins": "Insufficient Bamboo Coins! You need {needed} coins, but you only have {current}. Water your plants and take photos to earn more!",
+    "successDigital": "🎉 Purchase Successful! {coins} Coins deducted. You have unlocked: {name}!",
+    "successPlant": "🎉 Purchase Successful! {coins} Coins deducted. A new '{name}' pot has been added to your collection!",
+    "successPot": "🎉 Purchase Successful! {coins} Coins deducted. A new pot with a Monstera has been added to your collection!",
+    "successOther": "🎉 Purchase Successful! {coins} Coins deducted.",
+    "cashSuccessPlant": "🛒 Order processed! Cash checkout simulated. A new '{name}' pot has been added to your collection!",
+    "cashSuccessPot": "🛒 Order processed! Cash checkout simulated. A new pot with a Monstera has been added to your collection!",
+    "cashSuccessOther": "🛒 Order processed! Cash checkout simulated successfully. Your real Poto order is registered.",
+    "checkoutFailed": "Checkout failed. Please try again.",
+    "purchaseFailed": "Purchase failed. Please try again.",
+    "noProductsFound": "No products match your search",
+    "clearFilter": "Try matching different categories or typing another query.",
+    "standardSize": "Standard",
+    "notAvailable": "N/A"
+  },
+  "discover": {
+    "title": "Discover Care & Community",
+    "guidesHeader": "Plant Care Guides",
+    "eventsHeader": "Community Events",
+    "seeAll": "See All",
+    "joined": "Joined",
+    "rsvpCoins": "+20 Coins",
+    "registerBtn": "Register (+20 Coins)",
+    "registered": "You are Registered",
+    "registeredSuccess": "🎉 Registered successfully! You earned +{reward} Bamboo Coins for supporting community sustainability!"
+  },
+  "blogs": {
+    "title": "Plant Care Guides",
+    "searchPlaceholder": "Search articles...",
+    "noGuidesFound": "No guides found",
+    "clearSearch": "Try matching different terms or search keyword.",
+    "byAuthor": "By {author}"
+  },
+  "events": {
+    "title": "Community Events",
+    "searchPlaceholder": "Search events...",
+    "noEventsFound": "No events found",
+    "clearSearch": "Try matching different terms or search keyword.",
+    "byHost": "By {host}",
+    "dateLabel": "Date:",
+    "locationLabel": "Location:",
+    "hostLabel": "Host:"
+  },
+  "me": {
+    "title": "My Profile",
+    "editBtn": "Edit Profile",
+    "fieldName": "Name",
+    "fieldEmail": "Email",
+    "statsTitle": "Stats Overview",
+    "footprintTitle": "Environmental Footprint",
+    "displaySettings": "Display Settings",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "langSettings": "Language Settings",
+    "pwaTitle": "Web App Installation",
+    "pwaDesc": "Get a native app experience with offline support and quicker loading speeds.",
+    "pwaBtn": "Install Poto App",
+    "changePassword": "Change Password",
+    "signOut": "Sign Out",
+    "deleteAccount": "Delete Account",
+    "placeholderAlert": "⚙️ Account Action: \"{action}\" is triggered. This action is a placeholder and will be completed in the next release."
+  },
+  "detail": {
+    "speciesLabel": "Species:",
+    "lastWatered": "Last Watered:",
+    "never": "Never",
+    "hydrationStatus": "Hydration Status",
+    "waterInterval": "Watering interval:",
+    "days": "{count} days",
+    "soilMoisture": "Live Soil Moisture:",
+    "ambientTemp": "Ambient Temp:",
+    "humidity": "Humidity:",
+    "ambientLight": "Ambient Light:",
+    "waterSprout": "Water Sprout",
+    "thirstyAlert": "Thirsty! Water now",
+    "photoLog": "Weekly Photo Log",
+    "firstLog": "First photo logged!",
+    "logStreak": "+10 Coins, Streaks updated!",
+    "uploadPhoto": "Upload Care Photo",
+    "deletePot": "Delete Plant Pot",
+    "confirmDelete": "Are you sure you want to delete this plant pot? All history will be lost."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "sleep",
+  "duration": 4000,
+  "loop": true,
+  "keyframes": [
+    {
+      "time": 0,
+      "targets": {
+        "torso": {
+          "y": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "head": {
+          "rotate": 4,
+          "y": 5,
+          "scaleX": 0.98,
+          "scaleY": 0.98
+        },
+        "left_arm": {
+          "rotate": 10,
+          "y": 2
+        },
+        "right_arm": {
+          "rotate": -10,
+          "y": 2
+        }
+      }
+    },
+    {
+      "time": 2000,
+      "targets": {
+        "torso": {
+          "y": 2,
+          "scaleX": 1.03,
+          "scaleY": 0.97
+        },
+        "head": {
+          "rotate": 6,
+          "y": 8,
+          "scaleX": 0.96,
+          "scaleY": 0.96
+        },
+        "left_arm": {
+          "rotate": 15,
+          "y": 3
+        },
+        "right_arm": {
+          "rotate": -15,
+          "y": 3
+        }
+      }
+    },
+    {
+      "time": 4000,
+      "targets": {
+        "torso": {
+          "y": 0,
+          "scaleX": 1,
+          "scaleY": 1
+        },
+        "head": {
+          "rotate": 4,
+          "y": 5,
+          "scaleX": 0.98,
+          "scaleY": 0.98
+        },
+        "left_arm": {
+          "rotate": 10,
+          "y": 2
+        },
+        "right_arm": {
+          "rotate": -10,
+          "y": 2
+        }
+      }
+    }
+  ]
+}

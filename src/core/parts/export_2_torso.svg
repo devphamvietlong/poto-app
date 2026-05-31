@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120.43186mm"
+   height="90.473656mm"
+   viewBox="0 0 120.43186 90.473656"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="linearGradient15"><stop
+         style="stop-color:#d5d170;stop-opacity:1;"
+         offset="0"
+         id="stop15" /><stop
+         style="stop-color:#aab952;stop-opacity:1;"
+         offset="1"
+         id="stop16" /></linearGradient><linearGradient
+       xlink:href="#linearGradient15"
+       id="linearGradient16"
+       x1="169.25832"
+       y1="205.39211"
+       x2="53.521488"
+       y2="205.39211"
+       gradientUnits="userSpaceOnUse" /></defs><g
+     id="layer2"
+     style="display:inline"
+     transform="translate(-61.282665,-229.11)"><g
+       id="g33"
+       style="display:inline"
+       transform="translate(10.758085,75.306598)"><path
+         style="display:inline;opacity:1;mix-blend-mode:normal;fill:url(#linearGradient16);fill-opacity:1;stroke-width:0.366483"
+         d="m 112.43614,243.88361 c 29.69515,-1.76929 47.76436,-4.42322 53.50729,-10.99484 5.74294,-6.57163 6.16315,-16.1763 3.22165,-32.60537 -2.94151,-16.42906 -3.50179,-23.50618 -7.56386,-30.83607 -4.06208,-7.32988 -22.55149,-14.28064 -52.24665,-15.54442 -29.695134,-1.26377 -45.663277,9.85743 -49.865419,13.64876 -4.202144,3.79131 -8.964571,12.89049 -8.964571,38.67148 0,25.78098 4.736133,28.82466 8.614392,31.53114 12.676465,8.84643 53.297168,6.12932 53.297168,6.12932 z"
+         id="path15" /><path
+         style="display:inline;opacity:1;fill:#528123;fill-opacity:1;stroke-width:0.298738"
+         d="m 104.59783,188.41194 c 27.16827,-2.07813 59.09098,-1.73177 57.05336,-12.29555 -2.03762,-10.5638 -32.73776,-20.9544 -54.47237,-19.74217 -21.734618,1.21224 -46.186057,9.35155 -48.22368,20.2617 -2.03762,10.91013 45.64269,11.77602 45.64269,11.77602 z"
+         id="path16" /></g></g></svg>
