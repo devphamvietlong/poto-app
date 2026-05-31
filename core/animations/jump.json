@@ -1,0 +1,158 @@
+{
+  "name": "jump",
+  "duration": 950,
+  "loop": true,
+  "keyframes": [
+    {
+      "time": 0,
+      "targets": {}
+    },
+    {
+      "time": 150,
+      "targets": {
+        "torso": {
+          "y": 12,
+          "scaleX": 1.18,
+          "scaleY": 0.82
+        },
+        "head": {
+          "y": 9,
+          "scaleX": 1.12,
+          "scaleY": 0.88
+        },
+        "left_arm": {
+          "rotate": 35,
+          "y": 5
+        },
+        "right_arm": {
+          "rotate": -35,
+          "y": 5
+        },
+        "left_leg": {
+          "scaleY": 0.8
+        },
+        "right_leg": {
+          "scaleY": 0.8
+        }
+      }
+    },
+    {
+      "time": 350,
+      "targets": {
+        "torso": {
+          "y": -35,
+          "scaleX": 1.02,
+          "scaleY": 0.98
+        },
+        "head": {
+          "y": -36,
+          "scaleX": 1.02,
+          "scaleY": 0.98
+        },
+        "left_arm": {
+          "rotate": -85,
+          "y": -8
+        },
+        "right_arm": {
+          "rotate": 85,
+          "y": -8
+        },
+        "left_leg": {
+          "y": -21
+        },
+        "right_leg": {
+          "y": -21
+        }
+      }
+    },
+    {
+      "time": 550,
+      "targets": {
+        "torso": {
+          "y": -15,
+          "scaleX": 0.88,
+          "scaleY": 1.15
+        },
+        "head": {
+          "y": -18,
+          "scaleX": 0.9,
+          "scaleY": 1.12
+        },
+        "left_arm": {
+          "rotate": -50,
+          "y": -4
+        },
+        "right_arm": {
+          "rotate": 50,
+          "y": -4
+        }
+      }
+    },
+    {
+      "time": 720,
+      "targets": {
+        "torso": {
+          "y": 14,
+          "scaleX": 1.2,
+          "scaleY": 0.8
+        },
+        "head": {
+          "y": 10,
+          "scaleX": 1.12,
+          "scaleY": 0.88
+        },
+        "left_arm": {
+          "rotate": 25,
+          "y": 6
+        },
+        "right_arm": {
+          "rotate": -25,
+          "y": 6
+        },
+        "left_leg": {
+          "y": 8,
+          "scaleY": 0.72
+        },
+        "right_leg": {
+          "y": 8,
+          "scaleY": 0.72
+        }
+      }
+    },
+    {
+      "time": 846,
+      "targets": {
+        "torso": {
+          "y": -1.962653077741189,
+          "scaleX": 0.9605602038338821,
+          "scaleY": 1.039439796166118
+        },
+        "left_leg": {
+          "y": -0.9789923562294188,
+          "scaleY": 1.0192997452076473
+        },
+        "right_leg": {
+          "y": -0.9789923562294188,
+          "scaleY": 1.0192997452076473
+        },
+        "left_arm": {
+          "y": 0.014005095847054116,
+          "rotate": 0.05835456602939215
+        },
+        "right_arm": {
+          "y": 0.014005095847054116,
+          "rotate": -0.05835456602939215
+        },
+        "head": {
+          "y": -0.9743239909470675,
+          "scaleX": 0.9803267855697646,
+          "scaleY": 1.0196732144302354
+        }
+      }
+    },
+    {
+      "time": 950,
+      "targets": {}
+    }
+  ]
+}

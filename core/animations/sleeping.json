@@ -1,0 +1,62 @@
+{
+  "name": "sleeping",
+  "emote": "sleepy",
+  "duration": 4000,
+  "loop": true,
+  "keyframes": [
+    {
+      "time": 0,
+      "targets": {
+        "mascot_root": {
+          "rotate": -90,
+          "x": 30,
+          "y": -35
+        },
+        "bamboo": {
+          "scaleX": 0,
+          "scaleY": 0
+        },
+        "torso": {
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      }
+    },
+    {
+      "time": 2000,
+      "targets": {
+        "mascot_root": {
+          "rotate": -90,
+          "x": 30,
+          "y": -35
+        },
+        "bamboo": {
+          "scaleX": 0,
+          "scaleY": 0
+        },
+        "torso": {
+          "scaleX": 1.04,
+          "scaleY": 1
+        }
+      }
+    },
+    {
+      "time": 4000,
+      "targets": {
+        "mascot_root": {
+          "rotate": -90,
+          "x": 30,
+          "y": -35
+        },
+        "bamboo": {
+          "scaleX": 0,
+          "scaleY": 0
+        },
+        "torso": {
+          "scaleX": 1,
+          "scaleY": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "name": "get_hit",
+  "duration": 900,
+  "loop": false,
+  "emote": "hit",
+  "particles": [
+    {
+      "type": "stars",
+      "interval": 40,
+      "start": 50,
+      "end": 200
+    }
+  ],
+  "keyframes": [
+    {
+      "time": 0,
+      "targets": {}
+    },
+    {
+      "time": 120,
+      "targets": {
+        "mascot_root": {
+          "x": -35,
+          "y": -15,
+          "rotate": 15
+        },
+        "torso": {
+          "scaleY": 0.85,
+          "scaleX": 1.1,
+          "rotate": -5
+        },
+        "head": {
+          "x": -15,
+          "y": -8,
+          "rotate": 22,
+          "scaleX": 0.75,
+          "scaleY": 0.75
+        },
+        "left_arm": {
+          "rotate": -85,
+          "y": -8
+        },
+        "right_arm": {
+          "rotate": 75,
+          "y": -8
+        },
+        "bamboo": {
+          "rotate": 25,
+          "x": 10,
+          "y": -5
+        }
+      }
+    },
+    {
+      "time": 300,
+      "targets": {
+        "mascot_root": {
+          "x": -10,
+          "y": 10,
+          "rotate": -10
+        },
+        "torso": {
+          "scaleY": 1.05,
+          "scaleX": 0.95,
+          "rotate": 5
+        },
+        "head": {
+          "x": 8,
+          "y": 12,
+          "rotate": -15,
+          "scaleX": 1.15,
+          "scaleY": 1.15
+        },
+        "left_arm": {
+          "rotate": 15,
+          "y": 5
+        },
+        "right_arm": {
+          "rotate": -10,
+          "y": 5
+        },
+        "bamboo": {
+          "rotate": -5
+        }
+      }
+    },
+    {
+      "time": 500,
+      "targets": {
+        "mascot_root": {
+          "x": -5,
+          "y": -2,
+          "rotate": 5
+        },
+        "head": {
+          "x": -2,
+          "y": -3,
+          "rotate": 5,
+          "scaleX": 0.85,
+          "scaleY": 0.85
+        },
+        "left_arm": {
+          "rotate": -10
+        },
+        "right_arm": {
+          "rotate": 10
+        }
+      }
+    },
+    {
+      "time": 700,
+      "targets": {
+        "head": {
+          "scaleX": 1.1,
+          "scaleY": 1.1
+        }
+      }
+    },
+    {
+      "time": 900,
+      "targets": {}
+    }
+  ]
+}
